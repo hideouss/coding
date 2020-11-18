@@ -8,7 +8,7 @@ struct books{
 	int book_id;
 };
 
-void printbook(struct books *book);
+void printbook(struct books *);
 
 int main()
 {
